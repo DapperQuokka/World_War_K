@@ -1,0 +1,14 @@
+^CREDITS
+*"World War K" by JK Games
+$Programming Team
+%Jack Rong
+%Justin Tran
+%Krista Tian
+$Original Artwork
+%Justin Tran
+$Music
+%"Defense Line" by Backgroundloop
+$Sound Effects
+%Brian Wu
+$Special Thanks
+%Everyone who helped test this

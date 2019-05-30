@@ -1,0 +1,17 @@
+^CONTROLS
+*Control me like the facist government
+$Move Left
+%Keyboard: Left Arrow Key
+%Mouse: Move Mouse Left
+$Move Right
+%Keyboard: Right Arrow Key
+%Mouse: Move Mouse Right
+$Shoot
+%Keyboard: Spacebar Key
+%Mouse: Left Mouse Click
+$Launch Bomb
+%Keyboard: B Key
+%Mouse: Right Mouse Click
+$Pause Game
+%Keyboard: Escape Key
+%Mouse: Pause Button
